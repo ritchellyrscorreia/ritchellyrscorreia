@@ -1,4 +1,6 @@
-## Olá ! Eu sou a Ritchelly. Bem vindo(a) !!
+### Olá ! Eu sou a Ritchelly.
+
+## Bem vindo(a) !!
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/ritchellyrscorreia)
